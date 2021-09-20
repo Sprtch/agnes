@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/OdooApiHandler_pkg_Mat_oWatelet.egg-info/PKG-INFO
+src/OdooApiHandler_pkg_Mat_oWatelet.egg-info/SOURCES.txt
+src/OdooApiHandler_pkg_Mat_oWatelet.egg-info/dependency_links.txt
+src/OdooApiHandler_pkg_Mat_oWatelet.egg-info/top_level.txt
